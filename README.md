@@ -30,6 +30,8 @@ We'll cover techniques like handling missing data, converting data types, and de
 
 **Exploratory Data Analysis (EDA):** We'll create insightful visualizations to gain a better understanding of the dataset.
 
+**Jupyter Notebook link:** https://nbviewer.org/github/yuvaneshkm/2019_general_election_analysis/blob/main/2019_general_election_analysis.ipynb
+
 **Note:** Prior knowledge of Python programming is recommended for a better understanding of this project concepts.
 
 
