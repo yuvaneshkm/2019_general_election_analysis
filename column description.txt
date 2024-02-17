@@ -1,0 +1,61 @@
+Column Description:
+
+### 1. STATE
+* Name of the State
+
+### 2. CONSTITUENCY
+* Constituency name
+
+### 3. NAME
+* Name of the candidate
+
+### 4. WINNER
+* Candidate who win the election
+* 1 denotes win
+* 0 denotes lose
+
+### 5. PARTY
+* Party which the candidate belongs
+
+### 6. SYMBOL
+* Symbol of the Party
+
+### 7. GENDER
+* Gender of the candidate
+
+### 8. CRIMINAL CASES
+* Self declaration of total number of Criminal cases against the candidate
+
+### 9. AGE
+* Age of the candidate
+
+### 10. CATEGORY
+* Category that the candidate belongs
+
+### 11. EDUCATION
+* Educational qualification of the candidate
+
+### 12. ASSETS
+* Total asset value of the candidate in INR
+
+### 13. LIABILITIES
+* Total Liabilities of the candidate
+
+### 14. GENERAL VOTES
+* Total number of votes a candidate got through electors voting in person at a polling station or electronically via an electronic voting system
+
+### 15. POSTAL VOTES
+* Total number of votes a candidate got through Postal voting
+* Postal Voting is voting in an election where ballot papers are distributed to electors (and typically returned) by post
+
+### 16. TOTAL VOTES
+* Total number of votes a candidate got through both General votes and Postal votes
+
+### 17. OVER TOTAL ELECTORS IN CONSTITUENCY
+* Ratio of Total votes got by the candidate to the total electors in the constituency
+
+### 18. OVER TOTAL VOTES POLLED  IN CONSTITUENCY
+* Ratio of Total votes got by the candidate to the total votes polled in the constituency
+
+### 19. TOTAL ELECTORS
+* Total number of electors in the constituency
